@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Bohdan and I'm mostly a backend developer.
+
+
+
 <!--
 **teamkiller7112/teamkiller7112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
