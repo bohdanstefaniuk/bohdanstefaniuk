@@ -1,13 +1,14 @@
 **Hi there!** 👋
 
 🧔 I'm Dmitry, backend developer from Kyiv, Ukraine.
-✍️ Have a [blog](http://stefaniuk.website) on Russian.
-🌱 I’m currently learning Computer Science and preparing for the Google Cloud Platform exam.
-💬 Ask me about .NET 
-📫 How to reach me: [bogdanstefanjuk@gmail.com](mailto:bogdanstefanjuk@gmail.com)
 
-**🔧 Technologies & Tools**
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+✍️ Have a [blog](http://stefaniuk.website) on Russian.
+
+🌱 I’m currently learning Computer Science and preparing for the Google Cloud Platform exam.
+
+💬 Ask me about .NET 
+
+📫 How to reach me: [bogdanstefanjuk@gmail.com](mailto:bogdanstefanjuk@gmail.com)
 
 <!--
 **teamkiller7112/teamkiller7112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
