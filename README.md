@@ -2,8 +2,9 @@
 
 🧔 I'm Bohdan, backend developer from Kyiv, Ukraine.<br/> 
 ✍️ Have a [blog](http://stefaniuk.website) on Russian.<br/> 
-🌱 I’m currently learning Computer Science and preparing for the Google Cloud Platform exam.<br/> 
-💬 Ask me about .NET <br/> 
+🌱 I’m currently learning Computer Science.<br/>
+💬 Ask me about .NET <br/>
+🎓 GCP Associate Cloud Engineer <br/>
 📫 How to reach me: [bogdanstefanjuk@gmail.com](mailto:bogdanstefanjuk@gmail.com)<br/> 
 
 <!--
