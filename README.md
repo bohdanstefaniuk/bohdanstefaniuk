@@ -1,4 +1,4 @@
-**Hi there!** 👋
+## **Hi there!** 👋
 
 🇺🇦 I live in Kyiv, Ukraine<br/> 
 🤖 Most of the time I'm writing on С#. Sometimes JavaScript, when I need to</br>
