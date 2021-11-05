@@ -4,7 +4,7 @@
 🤖 Most of the time I'm writing on С#. Sometimes JavaScript, when I need to</br>
 ✍️ I write articles on my blog [stefaniuk.website (ru)](http://stefaniuk.website)<br/> 
 🌱 I’m currently learning Computer Science<br/>
-🎓 GCP Associate Cloud Engineer and AWS Cloud Practitioner<br/>
+🎓 AWS Cloud Practitioner and GCP Associate Cloud Engineer<br/>
 📫 How to reach me: [bogdanstefanjuk@gmail.com](mailto:bogdanstefanjuk@gmail.com)<br/> 
 📄 My CV: [cv.stefaniuk.website](http://cv.stefaniuk.website)
 
