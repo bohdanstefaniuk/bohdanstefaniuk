@@ -1,6 +1,6 @@
 ## **Hi there!** 👋
 
-🇺🇦 I live in Kyiv, Ukraine<br/> 
+🇨🇦 I live in Toronto, Canada. Born in Ukraine🇺🇦<br/> 
 🤖 Most of the time I'm writing on С#. Sometimes JavaScript, when I need to</br>
 ✍️ I write articles on my blog [stefaniuk.website (ru)](http://stefaniuk.website)<br/> 
 🌱 I’m currently learning Computer Science<br/>
